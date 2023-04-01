@@ -1,2 +1,1 @@
-*Alx is interesting*
-__Alx is cool__
+__Michael is teaching me Alx task__
